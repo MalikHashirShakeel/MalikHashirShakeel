@@ -73,6 +73,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+### 🐍 Watch my contributions get eaten by a snake
 
-![snake gif](https://github.com/malik-hashir/malik-hashir/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](https://github.com/malik-hashir/malik-hashir/blob/output/github-snake-dark.svg)
+
