@@ -55,13 +55,25 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
-- 🎖️ Solved 275+ problems on [LeetCode](https://leetcode.com)
-- 💡 Completed DSA in Python
-- 🔍 Working on Machine Learning Projects
-- 🛠️ Built projects using Django + React + Tailwind
-- 🌐 Created my own portfolio [here](https://malik-hashir-portfolio.vercel.app/)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=malik-hashir&theme=gruvbox&column=7&margin-w=10" />
+</p>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten by a Snake
+
+<p align="center">
+  <img src="https://github.com/malik-hashir/malik-hashir/blob/output/github-snake-dark.svg" />
+</p>
+
+---
+
+## 💻 LeetCode Badge
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/malik-hashir?theme=dark&font=Fira+Code&ext=contest)](https://leetcode.com/malik-hashir)
 
 ---
 
@@ -70,10 +82,3 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://malik-hashir-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link-here)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
-### 🐍 Watch my contributions get eaten by a snake
-
-![GitHub Snake dark](https://github.com/malik-hashir/malik-hashir/blob/output/github-snake-dark.svg)
-
