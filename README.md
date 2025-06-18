@@ -113,15 +113,15 @@ A social blogging web application built in **React** to share posts and foster r
   <img src="https://raw.githubusercontent.com/MalikHashirShakeel/MalikHashirShakeel/output/github-snake-dark.svg?palette=github-dark" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MalikHashirShakeel/MalikHashirShakeel/output/ocean.gif" />
-</p>
-
 ---
 
-## 💻 LeetCode Profile & Badge
+## 💻 LeetCode Profile & Stats
 
-[![LeetCode Badge](https://leetcode.com/medal/?showImg=0&id=6813442&isLevel=false)](https://leetcode.com/u/Malik_Hashir/)
+<p align="center">
+  <a href="https://leetcode.com/u/Malik_Hashir/">
+    <img src="https://leetcard.jacoblin.cool/Malik_Hashir?ext=contest&theme=dark" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
