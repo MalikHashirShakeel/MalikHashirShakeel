@@ -49,8 +49,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malik-hashir&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik-hashir&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MalikHashirShakeel&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikHashirShakeel&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -66,14 +66,14 @@
 ## 🐍 Watch My Contributions Get Eaten by a Snake
 
 <p align="center">
-  <img src="https://github.com/malik-hashir/malik-hashir/blob/output/github-snake-dark.svg" />
+  <img src="https://github.com/MalikHashirShakeel/MalikHashirShakeel/blob/output/github-snake-dark.svg" />
 </p>
 
 ---
 
 ## 💻 LeetCode Badge
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/malik-hashir?theme=dark&font=Fira+Code&ext=contest)](https://leetcode.com/malik-hashir)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/malik-hashir?theme=dark&font=Fira+Code&ext=contest)](https://leetcode.com/u/Malik_Hashir/)
 
 ---
 
