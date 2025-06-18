@@ -113,6 +113,10 @@ A social blogging web application built in **React** to share posts and foster r
   <img src="https://raw.githubusercontent.com/MalikHashirShakeel/MalikHashirShakeel/output/github-snake-dark.svg?palette=github-dark" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MalikHashirShakeel/MalikHashirShakeel/output/ocean.gif" />
+</p>
+
 ---
 
 ## 💻 LeetCode Profile & Badge
