@@ -1,134 +1,261 @@
-<h1 align="center">Hi 👋, I'm Malik Hashir</h1>
-<h3 align="center">Computer & Information Systems Engineering Student | AI & Systems Enthusiast | Problem Solver</h3>
+<!-- CYBERPUNK HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=I+love+building+scalable+systems.;AI%2C+ML%2C+DL+%F0%9F%A4%96+Enthusiast.;275%2B+LeetCode+Problems+Solved+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=220&section=header&text=Malik%20Hashir&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
+<h2 align="center">
+⚡ AI Engineer | Deep Learning Specialist | System Builder
+</h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Certified+Machine+Learning+Engineer;Deep+Learning+Specialist;Building+Intelligent+Systems;300%2B+LeetCode+Problems+Solved;TensorFlow+%7C+PyTorch+Developer"/>
 </p>
 
 ---
 
-## 🧠 About Me
+# 🧠 AI Engineer Profile
 
-🎓 I'm currently pursuing a **Bachelor's in Computer & Information Systems Engineering** at [NED University of Engineering and Technology, Karachi](https://www.neduet.edu.pk)  
+🎓 **Computer & Information Systems Engineering Student**  
+🏫 **NED University of Engineering & Technology – Karachi**
+
+🧠 **Certified Deep Learning Specialist**  
+📜 Certificate:  
+https://coursera.org/share/13acb02f8a3301a9678302b28c6944dd  
+
+📚 Completed **Deep Learning Specialization by Andrew Ng**
+
+💡 Interests:
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- System Design
+- Computer Architecture
+
 📊 **CGPA:** 3.8  
-🧠 I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **System Design**  
-⚙️ I enjoy diving into **Computer Architecture** and building **efficient, scalable systems**  
-🔍 Solved **275+ problems** on LeetCode  
-🌐 Explore my portfolio: [malik-hashir-portfolio.vercel.app](https://malik-hashir-portfolio.vercel.app/)
+🔥 **300+ LeetCode Problems Solved**
+
+🌐 Portfolio  
+https://malik-hashir-portfolio.vercel.app
 
 ---
 
-## 🧰 Tech Stack
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-
-### 🗄️ Backend & Database
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-
-### 📊 Data Science & ML
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-49AABF?style=flat)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-informational?style=flat&logo=google)
-
-### 🧩 Other Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![MIPS Assembly](https://img.shields.io/badge/-MIPS-008000?style=flat)
-
----
-
-## 🚀 Projects
-
-### 🔹 [ClassConnect](https://github.com/MalikHashirShakeel/ClassConnect)
-A full-featured virtual classroom inspired by Google Classroom, built using **Django** and **MySQL** as a DBMS course project.  
-🔧 Features: Automated Quiz Checking, Real-time Discussion Forums, Announcements, Graded Assignments, and more.  
-📅 *April 2025 – June 2025*
-
----
-
-### 🔹 [PayScript](https://github.com/MalikHashirShakeel/PayScript)
-A premium **Invoice Generation & Product Sheet Management System** developed for a real client. Built on **Django** and **PostgreSQL**.  
-💼 Designed to automate invoice workflows and streamline business record management.  
-📅 *June 2025*
-
----
-
-### 🔹 [Exploratory Data Analysis Case Study](https://github.com/MalikHashirShakeel/Data-Analysis-Case-Study)
-Performed **EDA** on the Stack Overflow Developer Survey 2020 using **Pandas**, **Matplotlib**, and **Seaborn** to uncover trends in developer tools, demographics, and preferences.  
-📊 Strengthened data wrangling, visualization, and statistical analysis skills.  
-📅 *April 2025*
-
----
-
-### 🔹 [Linear Regression Case Study](https://github.com/MalikHashirShakeel/Linear-Regression-Problem)
-Built a **Linear Regression model** with **Scikit-learn** to predict employee medical expenses based on personal attributes like BMI, smoking status, and age.  
-📈 Trained and evaluated using real-world health data in a Jupyter Notebook (via Jovian).  
-📅 *April 2025*
-
----
-
-### 🔹 [Logistic Regression Case Study (Ongoing)](https://github.com/MalikHashirShakeel/Logistic-Regression-Problem)
-Currently working on a **Logistic Regression model** to predict rainfall using weather data from Australian weather stations (Kaggle dataset).  
-🌦️ Tools used: **Scikit-learn**, **Pandas**, **Seaborn**, and **Matplotlib** in a Jovian notebook.  
-📅 *April 2025 – Present*
-
----
-
-### 🔹 [Mega Blog App](https://github.com/MalikHashirShakeel/Mega-Blog-App)
-A social blogging web application built in **React** to share posts and foster real-time communication among users.  
-📱 Created to solidify frontend skills by building a complete production-ready UI/UX.  
-
----
-
-## 📈 GitHub Stats
+# 🧠 Deep Learning Certification
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MalikHashirShakeel&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikHashirShakeel&layout=compact&theme=tokyonight" />
+
+<a href="https://coursera.org/share/13acb02f8a3301a9678302b28c6944dd">
+<img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-Certified-blue?style=for-the-badge&logo=coursera"/>
+</a>
+
+<a href="https://www.deeplearning.ai/">
+<img src="https://img.shields.io/badge/DeepLearning.AI-Andrew%20Ng-orange?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🧬 Neural Network Tech Stack
+
+## 🤖 AI / ML
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-f7931e?style=for-the-badge&logo=scikit-learn)
+
+---
+
+## 📊 Data Science
+
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-0C55A5?style=for-the-badge)
+
+---
+
+## 🌐 Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+
+---
+
+## 🗄 Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+---
+
+# 🚀 Featured Projects
+
+## 🧑‍🏫 ClassConnect
+
+Virtual Classroom Platform inspired by **Google Classroom**
+
+Features:
+
+• Automated Quiz Checking  
+• Discussion Forums  
+• Assignment Management  
+• Course Announcements  
+
+Tech:
+
+Django • MySQL
+
+🔗  
+https://github.com/MalikHashirShakeel/ClassConnect
+
+---
+
+## 💼 PayScript
+
+Professional **Invoice Generation & Product Management System**
+
+Built for a **real client**
+
+Tech:
+
+Django • PostgreSQL
+
+🔗  
+https://github.com/MalikHashirShakeel/PayScript
+
+---
+
+## 📊 StackOverflow Survey Analysis
+
+Exploratory Data Analysis on **StackOverflow Developer Survey**
+
+Tools:
+
+Pandas • Matplotlib • Seaborn
+
+🔗  
+https://github.com/MalikHashirShakeel/Data-Analysis-Case-Study
+
+---
+
+## 📈 Linear Regression Model
+
+Predicting **Medical Insurance Charges**
+
+Tools:
+
+Scikit-learn • Pandas
+
+🔗  
+https://github.com/MalikHashirShakeel/Linear-Regression-Problem
+
+---
+
+## 🌧 Rain Prediction Model
+
+Weather prediction using **Logistic Regression**
+
+Dataset: Australian Weather
+
+🔗  
+https://github.com/MalikHashirShakeel/Logistic-Regression-Problem
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MalikHashirShakeel&theme=gruvbox&column=7&margin-w=10" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MalikHashirShakeel&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikHashirShakeel&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MalikHashirShakeel/MalikHashirShakeel/output/github-snake-dark.svg?palette=github-dark" />
+
+<img src="https://streak-stats.demolab.com?user=MalikHashirShakeel&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 💻 LeetCode Profile & Stats
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://leetcode.com/u/Malik_Hashir/">
-    <img src="https://leetcard.jacoblin.cool/Malik_Hashir?ext=contest&theme=dark" alt="LeetCode Stats" />
-  </a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MalikHashirShakeel&theme=matrix&no-frame=true&margin-w=10"/>
+
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 🐍 Neural Activity (Contribution Snake)
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://malik-hashir-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MalikHashirShakeel)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/malik-hashir-53a15a294/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Malik_Hashir/)
-[![Gmail](https://img.shields.io/badge/-malik2244h@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:malik2244h@gmail.com)
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/MalikHashirShakeel/MalikHashirShakeel/output/github-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Malik_Hashir/">
+
+<img src="https://leetcard.jacoblin.cool/Malik_Hashir?theme=dark&ext=contest"/>
+
+</a>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://malik-hashir-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/MalikHashirShakeel">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/malik-hashir-53a15a294/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:malik2244h@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⚡ *"Transforming Data into Intelligence and Algorithms into Impact."*
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer"/>
+
+</p>
