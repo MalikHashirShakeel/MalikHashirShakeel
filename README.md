@@ -37,7 +37,7 @@ https://coursera.org/share/13acb02f8a3301a9678302b28c6944dd
 🔥 **300+ LeetCode Problems Solved**
 
 🌐 Portfolio  
-https://malik-hashir-portfolio.vercel.app
+https://malikhashirportfolio.vercel.app
 
 ---
 
