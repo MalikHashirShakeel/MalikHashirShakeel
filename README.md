@@ -436,15 +436,15 @@ mindmap
 <br>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=MalikHashirShakeel&show_icons=true&hide_border=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=MalikHashirShakeel&show_icons=true&hide_border=true&theme=tokyonight"/>
   &nbsp;&nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MalikHashirShakeel&layout=compact&hide_border=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MalikHashirShakeel&layout=compact&hide_border=true&theme=tokyonight"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MalikHashirShakeel&hide_border=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalikHashirShakeel&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br>
@@ -456,13 +456,13 @@ mindmap
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalikHashirShakeel&theme=2077"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalikHashirShakeel&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MalikHashirShakeel&theme=2077" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MalikHashirShakeel&theme=github_dark" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MalikHashirShakeel&theme=2077&utcOffset=5" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MalikHashirShakeel&theme=github_dark&utcOffset=5" height="180"/>
 </p>
 
 ```text
@@ -484,7 +484,7 @@ mindmap
 ## `> cat /var/log/achievements`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MalikHashirShakeel&theme=darkhub&no-frame=true&margin-w=10&column=7"/>
+  <img src="https://github-profile-trophy-zeta.vercel.app/?username=MalikHashirShakeel&theme=darkhub&no-frame=true&margin-w=10&column=7"/>
 </p>
 
 </div>
