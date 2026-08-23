@@ -8,38 +8,85 @@
      ═══════════════════════════════════════════════════════════════════════ -->
 
 <!-- ╔═══════════════════════════════════════════════════╗ -->
-<!-- ║           SECTION 01 : BOOT SEQUENCE              ║ -->
+<!-- ║         SECTION 01 : OS HUD HERO HEADER           ║ -->
 <!-- ╚═══════════════════════════════════════════════════╝ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6A00FF&height=220&section=header&text=HASHIR.OS&fontSize=70&fontAlignY=33&animation=fadeIn&fontColor=ffffff&desc=Malik%20Hashir%20Shakeel%20%E2%80%94%20AI%20Engineering%20Core&descSize=18&descColor=A9FEF7&descAlignY=55"/>
-</p>
+<div align="center">
+
+```text
+🔴 🟡 🟢 HASHIR.OS // TUI NEURAL TERMINAL v3.8.0 [OPERATIONAL]
+╔═════════════════════════════════════════════════════════════════════════════╗
+║                                                                             ║
+║   ██╗  ██╗ █████╗ ███████╗██╗  ██╗██╗██████╗  ██████╗ ███████╗             ║
+║   ██║  ██║██╔══██╗██╔════╝██║  ██║██║██╔══██╗██╔═══██╗██╔════╝             ║
+║   ███████║███████║███████╗███████║██║██████╔╝██║   ██║███████╗             ║
+║   ██╔══██║██╔══██║╚════██║██╔══██║██║██╔══██╗██║   ██║╚════██║             ║
+║   ██║  ██║██║  ██║███████║██║  ██║██║██║  ██║╚██████╔╝███████║             ║
+║   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝             ║
+║                                                                             ║
+║         ⚡ MALIK HASHIR SHAKEEL // AI & SYSTEM ARCHITECTURE CORE            ║
+╚═════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=600&color=00F7FF&center=true&vCenter=true&repeat=true&width=720&lines=%24+init+hashir-os+--mode%3Dneural-inference;%5BBOOT%5D+Loading+deep+learning+weights...;%5BBOOT%5D+Mounting+PyTorch+%2B+TensorFlow+engines...;%5BBOOT%5D+Initializing+300%2B+algorithmic+pipelines...;%5B++OK++%5D+HASHIR.OS+v3.8.0+Online.+System+Ready."/>
+
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&repeat=true&width=650&lines=%24+sudo+hashir-os+--initialize;%5BBOOT%5D+Loading+neural+processing+cores...;%5BBOOT%5D+Mounting+deep+learning+frameworks...;%5BBOOT%5D+Starting+AI+inference+pipeline...;%5B++OK++%5D+System+online.+All+modules+loaded."/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MalikHashirShakeel&style=for-the-badge&color=00F7FF&label=SYSTEM+VISITORS&labelColor=0D1117"/>
-  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/KERNEL-AI_ENGINEERING-00F7FF?style=for-the-badge&logo=cpu&logoColor=black&labelColor=0D1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-6A00FF?style=for-the-badge&logo=activity&logoColor=white&labelColor=0D1117"/>
+  &nbsp;
   <a href="https://malik-hashir-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-ONLINE-6A00FF?style=for-the-badge&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE_INTERFACE-00F7FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=MalikHashirShakeel&style=for-the-badge&color=6A00FF&label=TELEMETRY+VISITS&labelColor=0D1117"/>
 </p>
+
+</div>
 
 <br>
 
 <!-- ╔═══════════════════════════════════════════════════╗ -->
-<!-- ║         SECTION 02 : SYSTEM INFO (NEOFETCH)       ║ -->
+<!-- ║         SECTION 02 : SYSTEM DIRECTORY INDEX       ║ -->
 <!-- ╚═══════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+```text
+┌── SYSTEM MOUNT DIRECTORY ───────────────────────────────────────────────────┐
+│                                                                             │
+│   [01] /sys/info ........ System Specifications (Neofetch)                  │
+│   [02] /sys/status ...... Kernel Interrupts & Status Logs                   │
+│   [03] /sys/firmware .... Verified Deep Learning Certifications            │
+│   [04] /proc/arch ....... Neural Architecture Mindmap                       │
+│   [05] /bin/modules ..... Installed Tech Stack Libraries                    │
+│   [06] /proc/projects ... Active Running Processes (Projects)               │
+│   [07] /var/log/stats ... Real-time System Diagnostics & Telemetry          │
+│   [08] /net/connect ..... Network Interfaces & Contact Ports                │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br>
+
+---
+
+<!-- ╔═══════════════════════════════════════════════════╗ -->
+<!-- ║         SECTION 03 : SYSTEM INFO (NEOFETCH)       ║ -->
+<!-- ╚═══════════════════════════════════════════════════╝ -->
+
+<div align="center">
 
 ## `> neofetch`
 
-```
+```text
 ╭──────────────────────────────────────────────────────────────────╮
-│                                                                  │
-│   HASHIR.OS v3.8.0                                               │
-│   ════════════════                                               │
+│  🔴 🟡 🟢 HASHIR.OS // SYSTEM SPECS                               │
+├──────────────────────────────────────────────────────────────────┤
 │                                                                  │
 │   Host ............. Malik Hashir Shakeel                        │
 │   Kernel ........... AI Engineering Core                         │
@@ -51,24 +98,26 @@
 │   GPU .............. TensorFlow + PyTorch Dual-Core              │
 │   Memory ........... 5 Courses · 50+ Projects · ∞ Curiosity     │
 │                                                                  │
-│   ████████████████████░░░░░  CGPA: 3.8 / 4.0                    │
+│   [████████████████████░░░░░]  CGPA: 3.8 / 4.0                   │
 │                                                                  │
 ╰──────────────────────────────────────────────────────────────────╯
 ```
 
+</div>
+
 <br>
 
 <!-- ╔═══════════════════════════════════════════════════╗ -->
-<!-- ║         SECTION 03 : CORE ALGORITHM               ║ -->
+<!-- ║         SECTION 04 : CORE ALGORITHM               ║ -->
 <!-- ╚═══════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### `[ CORE_ALGORITHM ]`
+### `[ CORE_ALGORITHM_ENGINE ]`
 
 $$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V$$
 
-<sub>⚡ Scaled Dot-Product Attention — The Engine Behind Modern AI</sub>
+<sub>⚡ Scaled Dot-Product Attention — The Mathematical Engine Driving Modern Transformer & AI Systems</sub>
 
 </div>
 
@@ -77,10 +126,14 @@ $$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)
 ---
 
 <!-- ╔═══════════════════════════════════════════════════╗ -->
-<!-- ║         SECTION 04 : SYSTEM STATUS                ║ -->
+<!-- ║         SECTION 05 : SYSTEM STATUS                ║ -->
 <!-- ╚═══════════════════════════════════════════════════╝ -->
 
+<div align="center">
+
 ## `> systemctl status --all`
+
+</div>
 
 ```diff
 + [ONLINE]   Neural Inference Core ........................ Active
@@ -92,17 +145,22 @@ $$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)
 - [KILLED]   Generic Badge-Spam README .................... Terminated
 ```
 
+> [!NOTE]
+> **Kernel Interrupt Log:** `HASHIR.OS` is optimized for high-throughput Deep Learning model training, scalable full-stack backend development, and complex algorithmic problem solving.
+
 <br>
 
 ---
 
 <!-- ╔═══════════════════════════════════════════════════╗ -->
-<!-- ║       SECTION 05 : FIRMWARE VERIFICATION          ║ -->
+<!-- ║       SECTION 06 : FIRMWARE VERIFICATION          ║ -->
 <!-- ╚═══════════════════════════════════════════════════╝ -->
+
+<div align="center">
 
 ## `> verify --firmware --certificates`
 
-```
+```text
 ┌─── FIRMWARE VERIFICATION LOG ──────────────────────────────────────┐
 │                                                                    │
 │   ✅ VERIFIED   Deep Learning Specialization — Andrew Ng           │
@@ -118,7 +176,7 @@ $$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)
 
 <p align="center">
   <a href="https://coursera.org/share/13acb02f8a3301a9678302b28c6944dd">
-    <img src="https://img.shields.io/badge/Deep_Learning_Specialization-VERIFIED-00F7FF?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/Deep_Learning_Specialization-VERIFIED_CERTIFICATE-00F7FF?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0D1117"/>
   </a>
   &nbsp;
   <a href="https://www.deeplearning.ai/">
@@ -126,15 +184,21 @@ $$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)
   </a>
 </p>
 
+</div>
+
 <br>
 
 ---
 
 <!-- ╔═══════════════════════════════════════════════════╗ -->
-<!-- ║       SECTION 06 : NEURAL ARCHITECTURE            ║ -->
+<!-- ║       SECTION 07 : NEURAL ARCHITECTURE            ║ -->
 <!-- ╚═══════════════════════════════════════════════════╝ -->
 
+<div align="center">
+
 ## `> cat /proc/architecture`
+
+</div>
 
 ```mermaid
 mindmap
@@ -171,24 +235,30 @@ mindmap
 ---
 
 <!-- ╔═══════════════════════════════════════════════════╗ -->
-<!-- ║       SECTION 07 : INSTALLED MODULES              ║ -->
+<!-- ║       SECTION 08 : INSTALLED MODULES              ║ -->
 <!-- ╚═══════════════════════════════════════════════════╝ -->
+
+<div align="center">
 
 ## `> pkg list --installed`
 
-```
-┌─── CORE MODULES ──────────────────────────────────────────────────┐
+<br>
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                       INSTALLED SYSTEM MODULES                              │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<h4 align="center"><code>AI / ML Engine</code></h4>
+<h4><code>[ MODULE 01 : AI / ML ENGINE ]</code></h4>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark&perline=4"/>
   </a>
 </p>
 
-<h4 align="center"><code>Data Pipeline</code></h4>
+<h4><code>[ MODULE 02 : DATA PIPELINE ]</code></h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -197,15 +267,15 @@ mindmap
   <img src="https://img.shields.io/badge/Seaborn-0C55A5?style=for-the-badge&logoColor=white"/>
 </p>
 
-<h4 align="center"><code>Frontend Runtime</code></h4>
+<h4><code>[ MODULE 03 : FRONTEND RUNTIME ]</code></h4>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css&theme=dark&perline=5"/>
   </a>
 </p>
 
-<h4 align="center"><code>Backend Server</code></h4>
+<h4><code>[ MODULE 04 : BACKEND SERVER ]</code></h4>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -213,38 +283,44 @@ mindmap
   </a>
 </p>
 
-<h4 align="center"><code>Database Layer</code></h4>
+<h4><code>[ MODULE 05 : DATABASE LAYER ]</code></h4>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark&perline=3"/>
   </a>
 </p>
 
-<h4 align="center"><code>DevOps & Tools</code></h4>
+<h4><code>[ MODULE 06 : DEVOPS & TOOLS ]</code></h4>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3"/>
   </a>
 </p>
 
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                      ALL MODULES VERIFIED & LOADED                          │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
-└────────────────────────────────────────────────────────────────────┘
-```
+
+</div>
 
 <br>
 
 ---
 
 <!-- ╔═══════════════════════════════════════════════════╗ -->
-<!-- ║       SECTION 08 : PROCESS MONITOR                ║ -->
+<!-- ║       SECTION 09 : PROCESS MONITOR                ║ -->
 <!-- ╚═══════════════════════════════════════════════════╝ -->
+
+<div align="center">
 
 ## `> htop --filter=projects`
 
-```
-┌─── PROCESS MONITOR ───────────────────────────────────────────────┐
+```text
+┌─── PROCESS MONITOR ─────────────────────────────────────────────────────────┐
 ```
 
 | PID | Process | Status | Stack | Port |
@@ -255,11 +331,15 @@ mindmap
 | `004` | **Insurance Predictor** — Medical Cost Regression | 🔵 `COMPLETE` | Scikit-Learn · Pandas | [→ OPEN](https://github.com/MalikHashirShakeel/Linear-Regression-Problem) |
 | `005` | **Rain Predictor** — Weather Classification | 🔵 `COMPLETE` | Logistic Regression | [→ OPEN](https://github.com/MalikHashirShakeel/Logistic-Regression-Problem) |
 
-```
-└────────────────────────────────────────────────────────────────────┘
+```text
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 <br>
+
+<div align="center">
 
 <details>
 <summary><b>📂 Inspect Process [PID 001] — ClassConnect</b></summary>
@@ -335,32 +415,36 @@ mindmap
 
 </details>
 
+</div>
+
 <br>
 
 ---
 
 <!-- ╔═══════════════════════════════════════════════════╗ -->
-<!-- ║       SECTION 09 : SYSTEM DIAGNOSTICS             ║ -->
+<!-- ║       SECTION 10 : SYSTEM DIAGNOSTICS             ║ -->
 <!-- ╚═══════════════════════════════════════════════════╝ -->
+
+<div align="center">
 
 ## `> diagnostics --full`
 
-```
-┌─── SYSTEM DIAGNOSTICS ────────────────────────────────────────────┐
+```text
+┌─── REAL-TIME SYSTEM DIAGNOSTICS & TELEMETRY ────────────────────────────────┐
 ```
 
 <br>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MalikHashirShakeel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=6A00FF&text_color=C9D1D9&ring_color=00F7FF"/>
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=MalikHashirShakeel&show_icons=true&hide_border=true&theme=tokyonight"/>
   &nbsp;&nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikHashirShakeel&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"/>
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MalikHashirShakeel&layout=compact&hide_border=true&theme=tokyonight"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MalikHashirShakeel&hide_border=true&background=0D1117&ring=00F7FF&fire=6A00FF&currStreakLabel=00F7FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=58A6FF"/>
+  <img src="https://streak-stats.demolab.com/?user=MalikHashirShakeel&hide_border=true&theme=tokyonight"/>
 </p>
 
 <br>
@@ -372,26 +456,30 @@ mindmap
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalikHashirShakeel&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalikHashirShakeel&theme=2077"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MalikHashirShakeel&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MalikHashirShakeel&theme=2077" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MalikHashirShakeel&theme=github_dark&utcOffset=5" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MalikHashirShakeel&theme=2077&utcOffset=5" height="180"/>
 </p>
 
+```text
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
-└────────────────────────────────────────────────────────────────────┘
-```
+
+</div>
 
 <br>
 
 ---
 
 <!-- ╔═══════════════════════════════════════════════════╗ -->
-<!-- ║       SECTION 10 : ACHIEVEMENT LOG                ║ -->
+<!-- ║       SECTION 11 : ACHIEVEMENT LOG                ║ -->
 <!-- ╚═══════════════════════════════════════════════════╝ -->
+
+<div align="center">
 
 ## `> cat /var/log/achievements`
 
@@ -399,13 +487,17 @@ mindmap
   <img src="https://github-profile-trophy.vercel.app/?username=MalikHashirShakeel&theme=darkhub&no-frame=true&margin-w=10&column=7"/>
 </p>
 
+</div>
+
 <br>
 
 ---
 
 <!-- ╔═══════════════════════════════════════════════════╗ -->
-<!-- ║     SECTION 11 : NEURAL ACTIVITY VISUALIZATION    ║ -->
+<!-- ║     SECTION 12 : NEURAL ACTIVITY VISUALIZATION    ║ -->
 <!-- ╚═══════════════════════════════════════════════════╝ -->
+
+<div align="center">
 
 ## `> trace --neural-pathways`
 
@@ -417,25 +509,29 @@ mindmap
   </picture>
 </p>
 
+</div>
+
 <br>
 
 ---
 
 <!-- ╔═══════════════════════════════════════════════════╗ -->
-<!-- ║       SECTION 12 : BENCHMARK RESULTS              ║ -->
+<!-- ║       SECTION 13 : BENCHMARK RESULTS              ║ -->
 <!-- ╚═══════════════════════════════════════════════════╝ -->
+
+<div align="center">
 
 ## `> benchmark --algorithms`
 
-```
-┌─── ALGORITHM BENCHMARK RESULTS ───────────────────────────────────┐
-│                                                                    │
-│   Engine    : LeetCode Algorithm Processing Unit                   │
-│   Resolved  : 300+ problems                                       │
-│   Domains   : Arrays · Trees · Graphs · DP · Strings · More       │
-│   Status    : Actively solving                                     │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
+```text
+┌─── ALGORITHM BENCHMARK RESULTS ─────────────────────────────────────────────┐
+│                                                                             │
+│   Engine    : LeetCode Algorithmic Processing Unit                          │
+│   Resolved  : 300+ Problems                                                 │
+│   Domains   : Arrays · Trees · Graphs · Dynamic Programming · Strings       │
+│   Status    : Active Execution                                              │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <p align="center">
@@ -444,81 +540,91 @@ mindmap
   </a>
 </p>
 
+</div>
+
 <br>
 
 ---
 
 <!-- ╔═══════════════════════════════════════════════════╗ -->
-<!-- ║       SECTION 13 : NETWORK INTERFACES             ║ -->
+<!-- ║       SECTION 14 : NETWORK INTERFACES             ║ -->
 <!-- ╚═══════════════════════════════════════════════════╝ -->
 
-## `> ifconfig`
+<div align="center">
 
-```
-┌─── ACTIVE NETWORK INTERFACES ─────────────────────────────────────┐
-│                                                                    │
-│   eth0   Portfolio ........... ██████████████  UP  ✓               │
-│   eth1   GitHub .............. ██████████████  UP  ✓               │
-│   eth2   LinkedIn ............ ██████████████  UP  ✓               │
-│   eth3   Gmail ............... ██████████████  UP  ✓               │
-│                                                                    │
-│   All interfaces operational. Accepting connections.               │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
+## `> ifconfig --all`
+
+```text
+┌─── ACTIVE NETWORK INTERFACES ───────────────────────────────────────────────┐
+│                                                                             │
+│   eth0   Portfolio ........... █████████████████████████  UP  ✓              │
+│   eth1   GitHub .............. █████████████████████████  UP  ✓              │
+│   eth2   LinkedIn ............ █████████████████████████  UP  ✓              │
+│   eth3   Gmail ............... █████████████████████████  UP  ✓              │
+│                                                                             │
+│   Status: All interface ports open and ready for connections.               │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <p align="center">
   <a href="https://malik-hashir-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/eth0_·_Portfolio-CONNECTED-00F7FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/eth0_·_PORTFOLIO-CONNECTED-00F7FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
   </a>
   &nbsp;
   <a href="https://github.com/MalikHashirShakeel">
-    <img src="https://img.shields.io/badge/eth1_·_GitHub-CONNECTED-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/eth1_·_GITHUB-CONNECTED-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/malik-hashir-53a15a294/">
-    <img src="https://img.shields.io/badge/eth2_·_LinkedIn-CONNECTED-00F7FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/eth2_·_LINKEDIN-CONNECTED-00F7FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
   </a>
   &nbsp;
   <a href="mailto:malik2244h@gmail.com">
-    <img src="https://img.shields.io/badge/eth3_·_Gmail-CONNECTED-00F7FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/eth3_·_GMAIL-CONNECTED-00F7FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
   </a>
 </p>
+
+</div>
 
 <br>
 
 ---
 
 <!-- ╔═══════════════════════════════════════════════════╗ -->
-<!-- ║           SECTION 14 : SYSTEM FOOTER              ║ -->
+<!-- ║         SECTION 15 : TUI SYSTEM FOOTER            ║ -->
 <!-- ╚═══════════════════════════════════════════════════╝ -->
 
 <br>
 
 <div align="center">
 
+```text
+🔴 🟡 🟢 HASHIR.OS // SYSTEM SHUTDOWN SEQUENCE [STANDBY MODE]
+╔═════════════════════════════════════════════════════════════════════════════╗
+║                                                                             ║
+║       "Transforming Data into Intelligence. Algorithms into Impact."        ║
+║                                                                             ║
+║       ── Malik Hashir Shakeel // AI Engineer & System Builder               ║
+║                                                                             ║
+║   [HASHIR.OS] Uptime: ∞  │  Status: ALWAYS LEARNING  │  Kernel: AI CORE     ║
+║                                                                             ║
+╚═════════════════════════════════════════════════════════════════════════════╝
 ```
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   "Transforming Data into Intelligence.                      │
-│    Algorithms into Impact."                                  │
-│                                                              │
-│   ── Malik Hashir Shakeel                                    │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-<br>
-
-`[HASHIR.OS]` System uptime: `∞` · Status: `Always Learning` · Kernel: `AI Engineering`
-
-</div>
 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00C9FF&height=120&section=footer"/>
+  <img src="https://img.shields.io/badge/SYSTEM_HALT-STANDBY_MODE-00F7FF?style=flat-square&labelColor=0D1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/HASHIR.OS-v3.8.0-6A00FF?style=flat-square&labelColor=0D1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/BUILD-SUCCESS-00F7FF?style=flat-square&labelColor=0D1117"/>
 </p>
+
+</div>
+
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════
      END OF HASHIR.OS — THE NEURAL OPERATING SYSTEM
